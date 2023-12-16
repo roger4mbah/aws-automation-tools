@@ -31,7 +31,7 @@ Before using this script, ensure that you have the following requirements instal
 ## How to Use
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/yourusername/ec2-tags-management.git
+git clone https://github.com/roger4mbah/ec2-tags-management.git
 ```
 2. Navigate to the script directory:
 ```
